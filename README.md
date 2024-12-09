@@ -1,11 +1,12 @@
-# 👋 Hi, I’m @mackiexia
+# 👋 Hi, I’m @arabellaxia
 
-## 💝💝💝 I’m currently learning Web 3.0 developing: ***DeFi and NFT...!***
-- 🌻  I’m interested in programming & data science.
-- 📘  I major in Data Science but now excitedly diving into programming world.
+## 💝💝💝 Our team have recently launched a new AI learning plugin [Neonlingo](https://www.neonlingo.com/)!***
+- 🌻  I’m interested in programming, data science & Web 3.0 developing(DeFi and NFT...)!
+- 📘  I major in Data Science and I'm now excitedly diving into the new AI world.
 - 💞️  TBC...
 
-- 📫 Instagram: mk.xiaaaa
+- 📫 Twitter/X: [@ysh99o](https://x.com/ysh99o)
+- PRODUCT HUNT: [@ruixi_xia](https://www.producthunt.com/@ruixi_xia)
 
 <!---
 mackiexia/mackiexia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
