@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @arabellaxia
 
 ## 💝💝💝 Our team have recently launched a new AI learning plugin [Neonlingo](https://www.neonlingo.com/)!***
-- 🌻  I’m interested in programming, data science & Web 3.0 developing(DeFi and NFT...)!
+- 🌻  I’m interested in AI tech, programming, data science & Web 3.0 developing(DeFi and NFT...)!
 - 📘  I major in Data Science and I'm now excitedly diving into the new AI world.
 - 💞️  TBC...
 
