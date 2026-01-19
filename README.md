@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @arabellaxia
+# 👋 Hi, I’m @arabella
 
 ## 💝💝💝 Our team have recently launched a new AI learning plugin [Neonlingo](https://www.neonlingo.com/)!***
 - 🌻  I’m interested in AI tech, programming, data science & Web 3.0 developing(DeFi and NFT...)!
