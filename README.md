@@ -5,7 +5,7 @@
 - 📘  I major in Data Science and I'm now excitedly diving into the new AI world.
 - 💞️  TBC...
 
-- 📫 Twitter/X: [@ysh99o](https://x.com/ysh99o)
+- 📫 Twitter/X: [@RX_foreverluv](https://x.com/ysh99o)
 - PRODUCT HUNT: [@ruixi_xia](https://www.producthunt.com/@ruixi_xia)
 
 <!---
